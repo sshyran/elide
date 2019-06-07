@@ -5,7 +5,10 @@
 
 ## 4.5.0
 **Features**
-Alpha release of a new Elide data store (SearchDataStore) that supports full text search on top of an existing data store.
+ * Alpha release of a new Elide data store (SearchDataStore) that supports full text search on top of an existing data store.
+
+**Fixes**
+ * Upgrade to Hibernate 5.4.1
 
 ## 4.4.5
 **Fixes**
