@@ -1,11 +1,9 @@
 # Change Log
-## 4.4.6
-**Features**
- * Issue #815.  Added the ability to customize the JPQL generation for a filter operator globally or for a specific entity attribute.
 
 ## 4.5.0
 **Features**
  * Alpha release of a new Elide data store (SearchDataStore) that supports full text search on top of an existing data store.
+ * Issue #815.  Added the ability to customize the JPQL generation for a filter operator globally or for a specific entity attribute.
 
 **Fixes**
  * Upgrade to Hibernate 5.4.1
